@@ -1,2 +1,3 @@
 # empty
-Empty
+
+An empty project
